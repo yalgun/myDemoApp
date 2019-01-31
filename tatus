@@ -1,0 +1,35 @@
+[33mcommit c27e086b6cbae53678cbeb501cc18dfec0c84f2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: yalgun <yavuzalgun34@gmail.com>
+Date:   Thu Jan 31 21:31:21 2019 +0300
+
+    Procfile dosyası .txt yapildi
+
+[33mcommit bb7d15296066e54e94fb8c324bc240bf8702ba5f[m
+Author: yalgun <yavuzalgun34@gmail.com>
+Date:   Thu Jan 31 16:11:33 2019 +0300
+
+    Finished heroku deployement configuration
+
+[33mcommit b4d92f80a363455213377f977ceb7489402a60b6[m
+Author: yalgun <yavuzalgun34@gmail.com>
+Date:   Thu Jan 31 16:01:06 2019 +0300
+
+    Getting ready for deployment to heroku
+
+[33mcommit e506acc83bac325fbceb31d82552b730a7d9092c[m
+Author: yalgun <yavuzalgun34@gmail.com>
+Date:   Thu Jan 31 13:02:21 2019 +0300
+
+    Added build status image to README file
+
+[33mcommit 618d11c02a20927db465f6ca5961c50e5f8f4d32[m
+Author: yalgun <yavuzalgun34@gmail.com>
+Date:   Thu Jan 31 12:57:10 2019 +0300
+
+    Setting up continuous integration
+
+[33mcommit d4fd6ef7f2f56e3fb0505eb6648e70f68e3cfa1a[m
+Author: yalgun <yavuzalgun34@gmail.com>
+Date:   Thu Jan 31 12:45:32 2019 +0300
+
+    Proje bee
